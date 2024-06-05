@@ -16,6 +16,7 @@
     <p>LIFF init...</p>
   {:then}
     <p>LIFF init succeeded.</p>
+    <p>Welcome to MP-File</p>
   {:catch e}
     <p>LIFF init failed.</p>
     <p><code>{`${e}`}</code></p>
